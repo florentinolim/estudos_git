@@ -1,24 +1,10 @@
-<<<<<<< HEAD
 Testando repo 1
 a
 s
 d
 s
 d
-repot
-Testando
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-Testando repo 1
+7
+teste_criacao
 
-=======
-Testando repo 1
 
->>>>>>> fd453a388c1b5b973769f7aa1e5ceba9f998170a
->>>>>>> e611b2a0dcfa0f498fdb43190b8eea09ed6fc38e
-=======
-Testandor
-e
-t
->>>>>>> teste_criacao

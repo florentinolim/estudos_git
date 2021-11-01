@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Testando repo 1
 a
 s
@@ -6,3 +7,12 @@ s
 d
 repot
 Testando
+=======
+<<<<<<< HEAD
+Testando repo 1
+
+=======
+Testando repo 1
+
+>>>>>>> fd453a388c1b5b973769f7aa1e5ceba9f998170a
+>>>>>>> e611b2a0dcfa0f498fdb43190b8eea09ed6fc38e
